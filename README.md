@@ -101,3 +101,6 @@ Definition of Ready and Definition of Done policies were defined at the end of t
 └── video-url.txt           # Showcase video URL
 ```
 *Resolução SEMIL 02/2024 — Tool for informational purposes only, not a substitute for official legal review.*
+
+## 7. Demo video
+https://drive.google.com/file/d/1BRlw0IILwW1n5RCtFEmtAld6MNUhj_zb/view?usp=drive_link
