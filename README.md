@@ -7,7 +7,7 @@
 - Full Lean Inception conducted in Miro, covering all 9 steps of the methodology.
 ---
 
-## 0. The Problem and Context
+## The Problem and Context
 
 The environmental compensation calculation required by Resolução SEMIL 02/2024 is done manually by consultants and engineers, who must consult dozens of pages of regulatory annexes, cross-reference municipal data and perform error-prone calculations. Each calculation can take hours, and any mistake compromises technical reports and licensing processes.
 
